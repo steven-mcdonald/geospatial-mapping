@@ -1,5 +1,7 @@
-# Generating a Monthly Global Land Temperature Map Gif
+# Generate Various Geospatial plots
 ---
+
+## Generating a Monthly Global Land Temperature Map Gif
  
 This project gathers global land temperature data and generates a gif to shows its month-to-month variation over 4 years from May 2020 to April 2024.
 
