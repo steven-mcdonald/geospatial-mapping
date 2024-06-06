@@ -3,7 +3,7 @@
  
 This project gathers global land temperature data and generates a gif to shows its month-to-month variation over 4 years from May 2020 to April 2024.
 
-![land temp gif](https://github.com/steven-mcdonald/geospatial-mapping/blob/master/gifs/surface_temp/surface_temp.gif "land temp gif")
+![land temp gif](https://github.com/steven-mcdonald/geospatial-mapping/blob/master/gifs/surf_temp/surface_temp.gif "land temp gif")
 
 ### Data Source
 Monthly Global Land Temperature data can be imported from the Nasa Earth Observations data portal at
