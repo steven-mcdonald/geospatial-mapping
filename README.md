@@ -1,4 +1,4 @@
-# Generate Various Geospatial plots
+# Geospatial Plotting
 ---
 
 ## Generating a Monthly Global Land Temperature Map Gif
@@ -13,3 +13,13 @@ Monthly Global Land Temperature data can be imported from the Nasa Earth Observa
 
 ### Data Manipulation
 The original data was reprojected to the Robinson projection. The colour map was changed to Matplotlib 'Reds' with the sea colour reset to gray.
+
+## Generating a Map of Global Flight Routes
+
+This project gathers and plots global flight routes and highlights selected routes from selected cities
+
+![selected air routes](https://github.com/steven-mcdonald/geospatial-mapping/blob/master/plots/air/air_sel.png "selected air routes")
+
+### Data Source
+Airport locations and flight routes are downloaded from [openflights.org](https://openflights.org/data). Selected routes were then created by hand based on selected personal flight history from three cities where I have lived.
+
