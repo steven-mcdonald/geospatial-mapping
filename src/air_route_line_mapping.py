@@ -19,7 +19,6 @@ def list_airports(df, country='United Kingdom', city=None, code_type='iata'):
     return airport_code_list
 
 
-
 savepath = '../plots/air'
 savename= 'air_sel.png'
 
